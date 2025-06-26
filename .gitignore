@@ -207,6 +207,7 @@ __marimo__/
 *.yaml
 *.yml
 *.xml
+*.parquet
 
 .DS_Store 
 **/.DS_Store
