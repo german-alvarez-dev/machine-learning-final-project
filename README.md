@@ -70,7 +70,7 @@ FINAL-ML-PROJECT/
 
 ---
 
-## 🚀 Objective
+## Objective
 
 Develop a predictive model that estimates the probability of a visitor experiencing an incident on a theme park ride, given:
 
